@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\UT courses\Semester 7\General Workshop\Altium\First Project(test)\PCB1.PcbDoc
+Date         : 10/30/2020
+Time         : 6:22:48 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 16
+    Connections routed, 16
+    Connections remaining, 0
+count : 4
